@@ -20,13 +20,10 @@ img{
 }
 .books>button{
 	width:100%;
-	background-color:forestgreen;
+	background-color:rgba(0, 0, 0, 0);
 	border-radius:3px;
 	border:none;
 	padding:3px;
-}
-.books{
-	background-color:rgba(0, 0, 0, 0);
 }
 .book{
 	
