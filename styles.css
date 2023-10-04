@@ -20,7 +20,7 @@ img{
 }
 .books{
 	background-color:rgb(46, 204, 113);
-	color:rgb(119, 119, 119);
+	color:rgb(255, 255, 255);
 }
 .books>button{
 	width:100%;
@@ -28,6 +28,7 @@ img{
 	border-radius:3px;
 	border:none;
 	padding:3px;
+	color:rgb(255, 255, 255);
 }
 .book{
 	
