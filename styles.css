@@ -10,7 +10,7 @@
 	
 }
 h1{
-	background-color:lightgray;
+	background-color:rgb(238,238,238);
 	margin:0px 0px 10px;
 	}
 img{
@@ -20,7 +20,7 @@ img{
 }
 .books>button{
 	width:100%;
-	background-color:rgba(0, 0, 0, 0);
+	background-color:rgb(47,204,113);
 	border-radius:3px;
 	border:none;
 	padding:3px;
@@ -28,6 +28,6 @@ img{
 .book{
 	
 	text-align:left;
-	background-color:rgba(0, 0, 0, 0);
+	background-color:rgb(238,238,238);
 	padding:10px;
 }
